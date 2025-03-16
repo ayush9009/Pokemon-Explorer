@@ -1,4 +1,4 @@
-#Tech stack used : Next.js , Tailwind CSS 
+ Next.js , Poke API , Tailwind CSS 
 
 
 
