@@ -1,6 +1,17 @@
 #Tech stack used : Next.js , Tailwind CSS 
 
 
+
+
+
+
+![Screenshot (442)](https://github.com/user-attachments/assets/a7088c3a-43cd-4cdc-8bd4-2a15c6933bf1)
+
+![Screenshot (443)](https://github.com/user-attachments/assets/42620881-b76a-49d6-875d-3e8ced69c603)
+
+![Screenshot (444)](https://github.com/user-attachments/assets/03ed460d-429b-4968-adfe-e36a2b24d23b)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -42,10 +53,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-
-
-![Screenshot (442)](https://github.com/user-attachments/assets/a7088c3a-43cd-4cdc-8bd4-2a15c6933bf1)
-
-![Screenshot (443)](https://github.com/user-attachments/assets/42620881-b76a-49d6-875d-3e8ced69c603)
-
-![Screenshot (444)](https://github.com/user-attachments/assets/03ed460d-429b-4968-adfe-e36a2b24d23b)
